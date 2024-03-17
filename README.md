@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Senior Frontend Engineer / Full-stack developer / Senior Software Engineer** with over 9 years of experience in software engineering. I have got a **Master's degree** in **computer science** and I am currently working as a **full stack engineer** at a K-Ruoka company.
+🎓 I am a **Senior Frontend Engineer / Full-stack developer / Senior Software Engineer** with over 9 years of experience in software engineering. I have got a **Master's degree** in **computer science** and I am currently working as a **Senior Frontend Engineer** at Ledger company.
 
 👨‍💻 I enjoy contributing to Open Source Projects and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2014, I learned **JavaScript**, **React.js**, **Redux**, **Bootstrap**, and **REST APIs**. In 2016, I learned **Typescript**, **Next.js**, **React Native**, **Node.js**, **Express.js**, **CMS**, **Tailwind CSS**, and **MongoDB**. In 2019, I learned **Web3**, **WebSocket**, **MUI**, **Vue.js** and **AWS**. In 2021, I learned **Python**, **Progressive Web App (PWA)**, **Angular**, **GraphQL**, **Gatsby.js**, **Jenkins**, **Docker** & **Kubernetes**, and **AWS Lambda**. I got started looking for a new position as a software engineer.
 
@@ -23,6 +23,7 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![php](https://img.shields.io/badge/php-6d08e5?style=for-the-badge&logo=php&logoColor=white)
 
 ### Front-End Development
 
